@@ -3,7 +3,29 @@
     word-spacing: 10px;
 }
 
-.me {
+#publication_list li{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+papertitle {
+    display: block;
+    font-weight: bold;
+}
+
+authorlist {
+    display: block;
+}
+
+me {
     text-decoration: underline;
     font-weight: bold;
 }
+
+conference {
+    font-style: italic;
+    font-size: 13pt;
+    display:block;
+}
+
