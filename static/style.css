@@ -1,0 +1,9 @@
+.chinese {
+    font-family: 'Noto Serif TC', serif;
+    word-spacing: 10px;
+}
+
+.me {
+    text-decoration: underline;
+    font-weight: bold;
+}
