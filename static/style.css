@@ -29,3 +29,12 @@ conference {
     display:block;
 }
 
+publisher {
+    font-weight: 600;
+    color: #5E0035;
+    cursor: pointer;
+}
+
+publisher:hover {
+    color: #A77390; 
+}
