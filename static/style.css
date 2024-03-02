@@ -38,3 +38,12 @@ publisher {
 publisher:hover {
     color: #A77390; 
 }
+
+.label-success {
+    background-color: #449d44;
+    color: white;
+    font-size: 10pt;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
