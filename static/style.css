@@ -47,3 +47,9 @@ publisher:hover {
     padding: 5px 10px;
     border-radius: 4px;
 }
+
+paper_note {
+    color: red;
+    display: block;
+    font-size: 11pt;
+}
