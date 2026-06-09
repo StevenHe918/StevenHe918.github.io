@@ -29,6 +29,13 @@ conference {
     display:block;
 }
 
+award {
+    display: block;
+    font-weight: bold;
+    color: #b8860b;
+    font-size: 13pt;
+}
+
 publisher {
     font-weight: 600;
     color: #5E0035;
