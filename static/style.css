@@ -43,7 +43,16 @@ publisher {
 }
 
 publisher:hover {
-    color: #A77390; 
+    color: #A77390;
+}
+
+company {
+    font-weight: 600;
+    color: #1a5276;
+}
+
+company:hover {
+    color: #2e86c1;
 }
 
 .label-success {
